@@ -15,7 +15,7 @@ This is my "empty" project for my new projects.
 
 ## Usage
 
-Just download it and use my new project 😁.
+Just clone it and use this for your new projects 😁.
 
 ## Contributing
 
