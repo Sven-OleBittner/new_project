@@ -10,7 +10,7 @@ This is my "empty" project for my new projects.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Sven-OleBittner/new_project.git
+    git clone https://github.com/Sven-OleBittner/new_project.git .
     ```
 
 ## Usage
