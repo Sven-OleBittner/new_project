@@ -4,6 +4,10 @@
   scroll-behavior: smooth;
 }
 
+body {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
 .max_content {
   max-width: 1920px;
 }
@@ -27,7 +31,7 @@ a:hover {
   text-decoration: underline;
 }
 
-.display_mid{
+.display_mid {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -37,7 +41,7 @@ a:hover {
   display: none !important;
 }
 
-.btn{
+.btn {
   border: none;
   color: black;
   padding: 10px 20px;
