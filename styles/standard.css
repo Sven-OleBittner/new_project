@@ -23,6 +23,10 @@ a {
   color: black;
 }
 
+a:hover {
+  text-decoration: underline;
+}
+
 .display_mid{
   display: flex;
   justify-content: center;
